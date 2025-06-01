@@ -30,7 +30,7 @@ This collection includes **nine distinct themes**, each built around a unique co
 
 ### Specific Theme Highlights (All Themes)
 - **New Message Line**: `#ffffff` (pure white for clear separation of new messages).
-- **Current Opened Tab**: Green (`#00cc00`) for the active tab across all themes, ensuring consistency.
+- **Current Opened Tab**: Green (`#00ff00`) for the active tab across all themes, ensuring consistency.
 - **Notification**: Red (`#ff0000`) for new messages or highlights, making them stand out in every theme.
 
 ---
