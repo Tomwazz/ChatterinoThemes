@@ -79,9 +79,9 @@
       },
       "regular": {
         "backgrounds": {
-          "hover": "#ccac00",
-          "regular": "#ccac00",
-          "unfocused": "#ccac00"
+          "hover": "#262000",
+          "regular": "#262000",
+          "unfocused": "#262000"
         },
         "line": {
           "hover": "#ccac00",
@@ -92,9 +92,9 @@
       },
       "selected": {
         "backgrounds": {
-          "hover": "#262000",
-          "regular": "#262000",
-          "unfocused": "#262000"
+          "hover": "#ccac00",
+          "regular": "#ccac00",
+          "unfocused": "#ccac00"
         },
         "line": {
           "hover": "#00ff00",
