@@ -90,7 +90,7 @@ For other themes, the structure remains the same, but the colors shift to match 
 
 ## 📬 Contact
 
-Got questions, suggestions, or want to create a custom theme? Reach out to me at **tm_o7**! I'm happy to help you tweak these themes or craft a new one from scratch. 😄
+Got questions, suggestions, or want to create a custom theme? Reach out to me at **ktmc**! I'm happy to help you tweak these themes or craft a new one from scratch. 😄
 
 ---
 
